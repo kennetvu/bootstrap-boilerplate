@@ -1,0 +1,15 @@
+/* Custom css comes here*/
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.content-section {
+  padding-top: 7.5rem;
+  padding-bottom: 7.5rem;
+}
+
+.bg-tomato {
+  background-color: tomato;
+}
